@@ -24,12 +24,12 @@ variable "admin_username" {
     description = "Administrator Username"
 }
 
-variable "admin_password " {
+variable "admin_password" {
     type = string
     description = "Administrator password"
 }
 
-variable "servername " {
+variable "servername" {
     type = string
     description = "Name of server"
 }
